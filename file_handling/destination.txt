@@ -1,0 +1,6 @@
+hello world
+this is a new line
+append is taking place
+first line
+second line
+thrid line
